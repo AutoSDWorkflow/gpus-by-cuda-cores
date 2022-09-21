@@ -1,8 +1,6 @@
 # gpus-by-cuda-cores
 > List of NVIDIA graphic cards, sorted by number of CUDA cores
 
-## List
-
 |ProductName                    |BusType     |MemorySize|GpuClock|MemoryClock|CudaCores|
 |-------------------------------|------------|----------|--------|-----------|---------|
 |RTX 6000 Ada Generation        |PCIe 4.0 x16|48 GB     |? MHz   |? Mhz      |18176    |
