@@ -3,7 +3,8 @@
 
 |ProductName                    |BusType     |MemorySize|GpuClock|MemoryClock|CudaCores|
 |-------------------------------|------------|----------|--------|-----------|---------|
-|RTX 6000 Ada Generation        |PCIe 4.0 x16|48 GB     |? MHz   |? Mhz      |18176    |
+|RTX 6000 Ada Generation        |PCIe 4.0 x16|48 GB     |2355 MHz|2000 Mhz   |18176    |
+|GeForce RTX 4090 Ti[^1]        |PCIe 4.0 x16|48 GB     |2355 MHz|1500 MHz   |18176    |
 |GeForce RTX 4090               |PCIe 4.0 x16|24 GB     |2235 MHz|1325 MHz   |16384    |
 |RTX A40                        |PCIe 4.0 x16|48 GB     |1305 MHz|1812 MHz   |10752    |
 |RTX A6000                      |PCIe 4.0 x16|48 GB     |1455 MHz|2000 MHz   |10752    |
@@ -316,6 +317,8 @@
 |GeForce 710M                   |PCIe 3.0 x8 |1 GB      |719 MHz |900 MHz    |192      |
 |GeForce 805A                   |PCIe 3.0 x8 |1 GB      |719 MHz |1001 MHz   |192      |
 |GeForce 810A                   |PCIe 3.0 x8 |2 GB      |719 MHz |900 MHz    |192      |
+
+[^1]: Speculative, from https://www.techpowerup.com/gpu-specs/geforce-rtx-4090-ti.c3917
 
 ## Contributing
 
